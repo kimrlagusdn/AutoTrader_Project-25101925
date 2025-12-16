@@ -21,7 +21,7 @@
 
 다양한 복잡한 전략에서 신호를 찾지 못한 문제를 해결하고, 최종적으로 S&P 500 종목에서 조건을 만족하는 매수 신호를 포착하고 주문을 성공적으로 Alpaca 서버에 전송했음을 증명합니다.
 
-https://youtu.be/GWCBkolea8Q - 유튜브 링크(코드실행 - 500개의 종목을 조건에 맞게 분석하다 보니까 시간이 걸려서 4배속했습니다.)
+https://youtu.be/GWCBkolea8Q - 유튜브 링크(코드실행 - 500개의 종목을 조건에 맞게 분석하다 보니까 시간이 걸려서 4배속했습니다. 화면을 멈추고 코드 실행 과정을 봐주세요.)
 
 매수 완료된 이미지
 <img width="1563" height="833" alt="image" src="https://github.com/user-attachments/assets/99080bf0-128c-4fde-87e9-df75128acdad" />
