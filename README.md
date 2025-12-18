@@ -26,7 +26,8 @@ https://youtu.be/GWCBkolea8Q - 유튜브 링크(코드실행 - 500개의 종목�
 매수 완료된 이미지
 <img width="1563" height="833" alt="image" src="https://github.com/user-attachments/assets/99080bf0-128c-4fde-87e9-df75128acdad" />
 <img width="1574" height="845" alt="image" src="https://github.com/user-attachments/assets/1c916c09-2e2d-4647-96bd-8ea06ab1bd34" />
-<img width="1158" height="863" alt="image" src="https://github.com/user-attachments/assets/60c26861-378d-4f0e-a7c7-80547e061b9c" />
+<img width="898" height="553" alt="image" src="https://github.com/user-attachments/assets/08e4a2f9-f90d-4ea3-be42-0f1034504202" />
+
 
 
 ## 4. 향후 발전 계획 (Future Work)
